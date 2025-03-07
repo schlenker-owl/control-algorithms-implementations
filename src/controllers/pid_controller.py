@@ -2,7 +2,7 @@ import numpy as np
 
 class PIDController:
     """
-    Simple PID controller class.
+    Simple Proportional-Integral-Derivative (PID) controller class.
     """
     def __init__(self, Kp=1.0, Ki=0.0, Kd=0.0, dt=0.01, windup_limit=1e6):
         self.Kp = Kp
