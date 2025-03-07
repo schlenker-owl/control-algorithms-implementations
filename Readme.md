@@ -16,3 +16,4 @@ Download the git repo
 6. `python src/run_lead_lag_example.py`   # Simple Lead Lag controller.
 7. `python src/run_state_space_example.py`   # Simple State Space controller.
 8. `python src/run_smith_example.py`   # Simple Smith Predictor controller.
+9. `python src/run_imc_example.py`   # Simple Internal Model Control (IMC) controller.
