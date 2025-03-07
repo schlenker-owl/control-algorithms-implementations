@@ -19,3 +19,4 @@ Download the git repo
 9. `python src/run_imc_example.py`   # Simple Internal Model Control (IMC) controller.
 10. `python src/run_cascade_example.py`   # Simple Cascade controller.
 11. `python src/run_feedforward_example.py`   # Simple Feedforward controller.
+12. `python src/run_deadbeat_example.py`   # Simple Discrete-Time Deadbeat controller.
