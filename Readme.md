@@ -21,3 +21,4 @@ Download the git repo
 11. `python src/run_feedforward_example.py`   # Simple Feedforward controller.
 12. `python src/run_deadbeat_example.py`   # Simple Discrete-Time Deadbeat controller.
 13. `python src/run_onoff_example.py`   # Simple On-Off (Bang Bang) controller.
+14. `python src/run_gain_scheduling_example.py`   # Simple Gain Scheduling controller.
