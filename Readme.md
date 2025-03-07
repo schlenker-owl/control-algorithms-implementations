@@ -8,4 +8,5 @@ Download the git repo
 
 
 # Run the Control algorithm Examples
-1. `python src/run_pid_example.py` 
+1. `python src/run_pid_example.py` # Simple PID controller.
+1. `python src/run_p_example.py`   # Simple Proportional (P) controller.
