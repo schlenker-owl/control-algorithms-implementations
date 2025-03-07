@@ -1,0 +1,51 @@
+# .gitignore
+
+# 1. Python Bytecode & Cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# 2. Virtual Environments
+env/
+venv/
+.venv/
+
+# 3. Environment/Secrets Files
+.env
+.env.*
+
+# 4. Editor Directories & Config
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 5. Operating System Files
+.DS_Store
+Thumbs.db
+
+# 6. Build/Packaging Files
+build/
+dist/
+*.egg-info/
+
+# 7. Testing/Coverage
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+.test_reports/
+
+# 8. Logs
+*.log
+
+# 9. Docker (if used)
+docker-compose.override.yml
+
+# Local assets directory (store generated files; don't commit)
+assets/
+
+# data
+# data/
