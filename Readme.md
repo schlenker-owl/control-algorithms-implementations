@@ -14,3 +14,4 @@ Download the git repo
 4. `python src/run_pi_example.py`   # Simple Proportional-Integral (PI) controller.
 5. `python src/run_zn_example.py`   # Simple Ziegler-Nichols Tuning on PID controller.
 6. `python src/run_lead_lag_example.py`   # Simple Lead Lag controller.
+7. `python src/run_state_space_example.py`   # Simple State Space controller.
