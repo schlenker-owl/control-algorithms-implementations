@@ -11,3 +11,4 @@ Download the git repo
 1. `python src/run_pid_example.py` # Simple PID controller.
 2. `python src/run_p_example.py`   # Simple Proportional (P) controller.
 3. `python src/run_pd_example.py`   # Simple Proportional-Derivative (PD) controller.
+4. `python src/run_pi_example.py`   # Simple Proportional-Integral (PI) controller.
